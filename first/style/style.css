@@ -1,3 +1,31 @@
-p{
+/* p{
     color: red;
+}  */
+.go{
+    background-color:blanchedalmond ;
+}
+.text p{
+    color: blue;
+}
+.title{
+    color: chocolate;
+}
+#rated{
+    color:rgb(239, 43, 43);
+}
+.second{
+    border: 2px solid green;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.text{
+    border: 2px solid blue;
+}
+.form{
+    border: 2px solid red;
 }
